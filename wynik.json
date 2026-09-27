@@ -1,0 +1,16 @@
+{
+  "zakupy": [
+    {
+      "kategoria": "jedzenie",
+      "kwota": 25
+    },
+    {
+      "kategoria": "jedzenie",
+      "kwota": 5
+    },
+    {
+      "kategoria": "usługi",
+      "kwota": 150
+    }
+  ]
+}
